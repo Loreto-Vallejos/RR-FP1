@@ -1,5 +1,5 @@
 # RR-FP1
-Proyecto integrador, trabajo en grupo Capa8
+
 
  Proyecto Integrador: Ataúdes Personalizados 🪦⚰️
 
@@ -8,7 +8,7 @@ Equipo Capa 8
 
 
 
-👥 Equipo
+👥 Integrantes del Equipo
 
 Eduardo Lizama
 
@@ -47,6 +47,7 @@ Personas que planifican su propio servicio funerario.
 Intereses: diseño personalizado, contenido emocional, sostenibilidad, modernización del servicio funerario.
 
 🏛️ 2. Misión, Visión y Valores
+
 🎯 Misión
 
 Ofrecer una plataforma accesible para diseñar ataúdes personalizados, brindando una experiencia significativa y respetuosa.
@@ -56,6 +57,7 @@ Ofrecer una plataforma accesible para diseñar ataúdes personalizados, brindand
 Convertirse en la principal plataforma latinoamericana de ataúdes personalizados, integrando tecnología, diseño y sostenibilidad.
 
 🌱 Valores
+
 Valor	Descripción
 Respeto	Honramos la historia y sensibilidad de cada persona.
 Empatía	Acompañamos emocionalmente a quienes atraviesan un duelo.
@@ -96,6 +98,7 @@ Opciones ecológicas certificadas.
 Gestión integral: diseño → fabricación → entrega.
 
 🗂️ 5. Planificación del Proyecto
+
 🏃‍♂️ Sprint 1 (27 nov – 2 dic)
 
 Objetivo: Bases visuales y técnicas.
@@ -176,6 +179,7 @@ Home
     └── Seguimiento de fabricación
 
 🧱 8. Contenidos del Sitio
+
 🏠 Página principal
 
 Banner emocional
@@ -227,6 +231,7 @@ Filtros (material, estilo, ecológico)
 Comparador de diseños
 
 🧪 9. Tecnologías Utilizadas
+
 Área	Tecnología
 Frontend	HTML5, CSS3, Bootstrap, JavaScript ES6
 Backend	Java + Spring Boot
@@ -246,6 +251,7 @@ MySQL: relaciones claras.
 GitHub: trabajo colaborativo.
 
 🧪 10. Pruebas
+
 Fase	Tipo	Sección	Descripción
 Desarrollo	Responsive	Todas	Ajuste móvil/escritorio
 Desarrollo	Botones	Login, Productos, Configurador	Acciones correctas
@@ -256,6 +262,7 @@ Desarrollo	Compatibilidad	Todas	Chrome, Firefox, Edge
 Backend	Excepciones	Backend	Manejo de errores
 Integración	FE-BE	Todas	Comunicación estable
 Integración	BE-BD	Productos y usuarios	Consultas correctas
+
 🚀 11. Lanzamiento
 
 El despliegue final se realizará en Heroku, con pruebas en distintos navegadores.
