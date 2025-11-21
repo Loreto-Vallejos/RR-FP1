@@ -168,19 +168,26 @@ UX/UI: prototipos, diseño emocional y visual.
 🔄 Roles rotativos por sprint.
 
 🗺️ 7. Mapa de Navegación
+
 Home
+│
 ├── Acerca de Nosotros
+│
 ├── Personaliza tu Ataúd
 │   ├── Selector de materiales
 │   ├── Colores y grabados
 │   └── Vista 3D
+│
 ├── Productos
 │   └── Catálogo general
+│
 ├── Contáctenos
+│
 └── Login / Registro
     ├── Perfil
     ├── Historial de pedidos
     └── Seguimiento de fabricación
+
 
 🧱 8. Contenidos del Sitio
 
