@@ -81,11 +81,15 @@ Destacado de diseños dentro de la plataforma para funerarias.
 
 🎁 4. Propuesta de Valor
 Comparativa de la oferta
-Plataforma / Función	Personalización	Ecológicos	Diseñador 3D	Envío urgente	Precio transparente
-Eternum Design	✔ Completa	✔ Sí	✔ Sí	✔	✔
-Funerarias tradicionales	✖ Baja	Parcial	✖ No	✔	✖ Variable
-Tiendas online	Parcial	Parcial	✖ No	Depende	Parcial
-Artesanos	✔ Alta	Depende	✖ No	✖	✖
+
+| Plataforma / Función         | Personalización | Ecológicos | Diseñador 3D | Envío urgente | Precio transparente   |
+|------------------------------|-----------------|------------|--------------|----------------|----------------------|
+| **Eternum Design**           | ✔ Completa     | ✔ Sí       | ✔ Sí         | ✔             | ✔                    |
+| **Funerarias tradicionales** | ✖ Baja         | Parcial    | ✖ No         | ✔             | ✖ Variable           |
+| **Tiendas online genéricas** | Parcial        | Parcial     | ✖ No         | Depende       | Par￼cial             |
+| **Artesanos independientes** | ✔ Alta         | Depende    | ✖ No         | ✖             | ✖                    |
+
+
 
 🌟 Diferenciadores
 
