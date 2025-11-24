@@ -10,19 +10,19 @@ Equipo Capa 8
 
 👥 Integrantes del Equipo
 
-Eduardo Lizama
+Eduardo Lizama.
 
-Álvaro Latorre
+Álvaro Latorre.
 
-Sebastián Vega
+Sebastián Vega.
 
-Alejandro Belvie
+Alejandro Belvie.
 
-Washington Mardones
+Washington Mardones.
 
-Diego Celis
+Diego Celis.
 
-M. Loreto Vallejos
+M. Loreto Vallejos.
 
 
 📌 1. Definición del Proyecto
